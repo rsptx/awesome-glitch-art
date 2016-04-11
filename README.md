@@ -11,6 +11,8 @@ A curated list about glitch art!
 
 ## Tutorials
 
+-   [How to Datamosh in Plain English](http://forum.glitchet.com/t/tutorial-make-video-glitch-art-how-to-datamosh-in-plain-english/36)
+
 ## Contributing
 
 Found an awesome package, article, blog, video etc.?
