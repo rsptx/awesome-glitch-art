@@ -14,3 +14,7 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 * Feel free to create or improve a category
 * Make sure there is no trailing whitespace
 * Last, Make sure it is awesome!
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
