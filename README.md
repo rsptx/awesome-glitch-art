@@ -16,6 +16,7 @@ A curated list about glitch art!
 
 ## Communities
 
+-   [Datamoshing.com](http://www.datamoshing.com)
 -   [Glitchet](http://glitchet.com)
 
 ## Contributing
