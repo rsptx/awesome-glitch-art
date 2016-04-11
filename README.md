@@ -3,6 +3,7 @@
 A curated list about glitch art!
 
 -   [Tutorials](#tutorials)
+-   [Communities](#communities)
 -   [Glossary](#glossary)
 -   [Contributing](#contributing)
 -   [License](#license)
@@ -12,6 +13,8 @@ A curated list about glitch art!
 ## Tutorials
 
 -   [How to Datamosh in Plain English](http://forum.glitchet.com/t/tutorial-make-video-glitch-art-how-to-datamosh-in-plain-english/36)
+
+## Communities
 
 ## Contributing
 
