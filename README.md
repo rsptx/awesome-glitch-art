@@ -2,6 +2,15 @@
 
 A curated list about glitch art!
 
+-   [Tutorials](#tutorials)
+-   [Glossary](#glossary)
+-   [Contributing](#contributing)
+-   [License](#license)
+
+---
+
+## Tutorials
+
 ## Contributing
 
 Found an awesome package, article, blog, video etc.?
