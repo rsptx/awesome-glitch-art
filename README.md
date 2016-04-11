@@ -16,6 +16,8 @@ A curated list about glitch art!
 
 ## Communities
 
+-   [Glitchet](http://glitchet.com)
+
 ## Contributing
 
 Found an awesome package, article, blog, video etc.?
