@@ -2,6 +2,7 @@
 
 A curated list about glitch art!
 
+-   [Documentation](#documentation)
 -   [Tutorials](#tutorials)
 -   [Communities](#communities)
 -   [Glossary](#glossary)
@@ -9,6 +10,8 @@ A curated list about glitch art!
 -   [License](#license)
 
 ---
+
+## Documentation
 
 ## Tutorials
 
