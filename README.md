@@ -6,6 +6,7 @@ A curated list about glitch art!
 -   [Tutorials](#tutorials)
 -   [Online Tools](#online-tools)
 -   [Communities](#communities)
+-   [Conferences](#conferences)
 -   [Glossary](#glossary)
 -   [Contributing](#contributing)
 -   [License](#license)
@@ -30,6 +31,10 @@ A curated list about glitch art!
 -   [Datamoshing.com](http://www.datamoshing.com)
 -   [Glitchet](http://glitchet.com)
 -   [Public Glitch Scripts / Tools on GitHub](https://github.com/GlitchTools)
+
+## Conferences
+
+-   [Refrag Paris](http://glitch.refrag.paris)
 
 ## Contributing
 
