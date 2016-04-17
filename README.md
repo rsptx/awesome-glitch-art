@@ -5,6 +5,7 @@ A curated list about glitch art!
 -   [Documentation](#documentation)
 -   [Tutorials](#tutorials)
 -   [Online Tools](#online-tools)
+-   [Software](#software)
 -   [Communities](#communities)
 -   [Conferences](#conferences)
 -   [Glossary](#glossary)
@@ -25,6 +26,10 @@ A curated list about glitch art!
 
 -   [GlitchGifStudio](https://azopcorp.com/glitchgifstudio)
 -   [MOSH - Chrome Experiment](https://www.chromeexperiments.com/experiment/mosh)
+
+## Software
+
+-   [Satromizer OS](http://satromizer.com/sOS/) - The world's first Easter Egg Operating System
 
 ## Communities
 
