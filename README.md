@@ -36,6 +36,7 @@ A curated list about glitch art!
 -   [Datamoshing.com](http://www.datamoshing.com)
 -   [Glitchet](http://glitchet.com)
 -   [Public Glitch Scripts / Tools on GitHub](https://github.com/GlitchTools)
+-   [gli.tc/h](http://gli.tc/h/)
 
 ## Conferences
 
