@@ -45,7 +45,7 @@ A curated list about glitch art!
 ## Contributing
 
 Found an awesome package, article, blog, video etc.?
-Send me a pull request! Just follow the guidelines
+Open an issue or send me a pull request! Just follow the guidelines
 
 ### Guidelines
 
