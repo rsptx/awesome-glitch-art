@@ -2,45 +2,48 @@
 
 A curated list about glitch art!
 
--   [Documentation](#documentation)
--   [Tutorials](#tutorials)
--   [Online Tools](#online-tools)
--   [Software](#software)
--   [Communities](#communities)
--   [Conferences](#conferences)
--   [Glossary](#glossary)
--   [Contributing](#contributing)
--   [License](#license)
+*   [Documentation](#documentation)
+*   [Tutorials](#tutorials)
+*   [Online Tools](#online-tools)
+*   [Software](#software)
+*   [Communities](#communities)
+*   [Conferences](#conferences)
+*   [Glossary](#glossary)
+*   [Contributing](#contributing)
+*   [License](#license)
 
 ---
 
 ## Documentation
 
--   [The Art Of PNGGlitch](http://ucnv.github.io/pnglitch/) by [UNCV](http://ucnv.org)
+*   [The Art Of PNGGlitch](http://ucnv.github.io/pnglitch/) by [UNCV](http://ucnv.org)
 
 ## Tutorials
 
--   [How to Datamosh in Plain English - Glitchet](http://forum.glitchet.com/t/tutorial-make-video-glitch-art-how-to-datamosh-in-plain-english/36)
+*   [How to Datamosh in Plain English - Glitchet](http://forum.glitchet.com/t/tutorial-make-video-glitch-art-how-to-datamosh-in-plain-english/36)
 
 ## Online Tools
 
--   [GlitchGifStudio](https://azopcorp.com/glitchgifstudio)
--   [MOSH - Chrome Experiment](https://www.chromeexperiments.com/experiment/mosh)
+*   [GlitchGifStudio](https://azopcorp.com/glitchgifstudio)
+*   [MOSH - Chrome Experiment](https://www.chromeexperiments.com/experiment/mosh)
 
 ## Software
 
--   [Satromizer OS](http://satromizer.com/sOS/) - The world's first Easter Egg Operating System
+*   [Satromizer OS](http://satromizer.com/sOS/) - The world's first Easter Egg
+    Operating System
 
 ## Communities
 
--   [Datamoshing.com](http://www.datamoshing.com)
--   [Glitchet](http://glitchet.com)
--   [Public Glitch Scripts / Tools on GitHub](https://github.com/GlitchTools)
--   [gli.tc/h](http://gli.tc/h/)
+*   [Datamoshing.com](http://www.datamoshing.com)
+*   [Glitchet](http://glitchet.com)
+*   [Public Glitch Scripts / Tools on GitHub](https://github.com/GlitchTools)
+*   [gli.tc/h](http://gli.tc/h/)
 
 ## Conferences
 
--   [Refrag Paris](http://glitch.refrag.paris)
+*   [Refrag Paris](http://glitch.refrag.paris)
+
+---
 
 ## Contributing
 
@@ -49,14 +52,14 @@ Open an issue or send me a pull request! Just follow the guidelines
 
 ### Guidelines
 
--   Make sure what you are adding is not already on the list
--   Make a separate pull request for each addition
--   Use the format: `-   [Name](Link) - Description if needed`
--   Add it to the bottom of the section, not top or middle
--   Check your spelling and grammar
--   Feel free to create or improve a category
--   Make sure there is no trailing whitespace
--   Last, Make sure it is awesome!
+*   Make sure what you are adding is not already on the list
+*   Make a separate pull request for each addition
+*   Use the format: `*   [Name](Link) - Description if needed`
+*   Add it to the bottom of the section, not top or middle
+*   Check your spelling and grammar
+*   Feel free to create or improve a category
+*   Make sure there is no trailing whitespace
+*   Last, Make sure it is awesome!
 
 ## License
 
