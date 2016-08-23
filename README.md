@@ -2,6 +2,7 @@
 
 A curated list about glitch art!
 
+*   [Data Bending](#data-bending)
 *   [Documentation](#documentation)
 *   [Tutorials](#tutorials)
 *   [Online Tools](#online-tools)
@@ -13,6 +14,10 @@ A curated list about glitch art!
 *   [License](#license)
 
 ---
+
+## Data Bending
+
+*   [glitch-studio](https://github.com/alexadam/glitch-studio) by [Alex Adam](https://github.com/alexadam)
 
 ## Documentation
 
