@@ -35,6 +35,7 @@ A curated list about glitch art!
 ## Command Line Tools
 
 *   [PNGlitch](https://github.com/ucnv/pnglitch) - A Ruby library to glitch PNG images.
+*   [bomattin/glitcher](https://github.com/bomattin/glitcher) - Some neat scripts for playing around with and destroying images
 
 ## Software
 
