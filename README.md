@@ -32,6 +32,10 @@ A curated list about glitch art!
 *   [GlitchGifStudio](https://azopcorp.com/glitchgifstudio)
 *   [MOSH - Chrome Experiment](https://www.chromeexperiments.com/experiment/mosh)
 
+## Command Line Tools
+
+*   [PNGlitch](https://github.com/ucnv/pnglitch) - A Ruby library to glitch PNG images.
+
 ## Software
 
 *   [Satromizer OS](http://satromizer.com/sOS/) - The world's first Easter Egg
