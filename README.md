@@ -36,6 +36,7 @@ A curated list about glitch art!
 
 *   [PNGlitch](https://github.com/ucnv/pnglitch) - A Ruby library to glitch PNG images.
 *   [bomattin/glitcher](https://github.com/bomattin/glitcher) - Some neat scripts for playing around with and destroying images
+*   [wayspurrchen/byebyte](https://github.com/wayspurrchen/byebyte) - Destroys your files (on purpose).
 
 ## Software
 
