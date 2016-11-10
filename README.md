@@ -38,6 +38,7 @@ A curated list about glitch art!
 *   [bomattin/glitcher](https://github.com/bomattin/glitcher) - Some neat scripts for playing around with and destroying images
 *   [wayspurrchen/beamp](https://github.com/wayspurrchen/beamp) - Simple Node.js script that takes arbitrary files and turns them into .BMPs
 *   [wayspurrchen/byebyte](https://github.com/wayspurrchen/byebyte) - Destroys your files (on purpose).
+*   [wayspurrchen/moshy](https://github.com/wayspurrchen/moshy) - datamoshing utility kit for common tasks with AVI files
 
 ## Software
 
