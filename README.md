@@ -6,6 +6,7 @@ A curated list about glitch art!
 *   [Documentation](#documentation)
 *   [Tutorials](#tutorials)
 *   [Online Tools](#online-tools)
+*   [Command Line Tools](#command-line-tools)
 *   [Software](#software)
 *   [Communities](#communities)
 *   [Conferences](#conferences)
