@@ -7,6 +7,7 @@ A curated list about glitch art!
 *   [Tutorials](#tutorials)
 *   [Online Tools](#online-tools)
 *   [Command Line Tools](#command-line-tools)
+*   [Libraries](#libraries)
 *   [Software](#software)
 *   [Communities](#communities)
 *   [Conferences](#conferences)
@@ -40,6 +41,10 @@ A curated list about glitch art!
 *   [wayspurrchen/beamp](https://github.com/wayspurrchen/beamp) - Simple Node.js script that takes arbitrary files and turns them into .BMPs
 *   [wayspurrchen/byebyte](https://github.com/wayspurrchen/byebyte) - Destroys your files (on purpose).
 *   [wayspurrchen/moshy](https://github.com/wayspurrchen/moshy) - datamoshing utility kit for common tasks with AVI files
+
+## Libraries
+
+*   [hmongouachon/mgGlitch](https://github.com/hmongouachon/mgGlitch) - A little jquery helper to glitch everything - [🎮](http://codepen.io/hmongouachon/pen/LZGwWY)
 
 ## Software
 
