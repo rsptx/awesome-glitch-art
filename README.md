@@ -34,6 +34,7 @@ A curated list about glitch art!
 *   [GlitchGifStudio](https://azopcorp.com/glitchgifstudio)
 *   [MOSH - Chrome Experiment](https://www.chromeexperiments.com/experiment/mosh)
 *   [VHSFilter](https://vhsfilter.com/) - Free browser tool for VHS and glitch effects on photos and short clips; scanlines, tracking noise, color bleed, no signup.
+*   [DitherEffect](https://dithereffect.com/) - Free browser tool for dithering, glitch and VHS looks on photos, video, GIFs and live camera; local processing, no signup.
 
 ## Command Line Tools
 
